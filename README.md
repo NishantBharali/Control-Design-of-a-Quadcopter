@@ -10,8 +10,8 @@ In a simulation it is possible to adjust trajectory or attitude as desired.
 
 Position and attitude control:
 <p align="center">
-  <img src="https://github.com/sebastianbrzustowicz/Quadcopter-simulation/assets/66909222/639ddc2e-403c-49e3-8e2d-757c4fd235db" width="49%" height="auto"/>
-  <img src="https://github.com/sebastianbrzustowicz/Quadcopter-simulation/assets/66909222/f11ace10-d537-4824-bee1-91825b3f0c01" width="49%" height="auto"/>
+  <img src="https://github.com/NishantBharali/Control-system-Quadcopter/assets/66909222/639ddc2e-403c-49e3-8e2d-757c4fd235db" width="49%" height="auto"/>
+  <img src="https://github.com/NishantBharali/Control-system-Quadcopter/assets/66909222/f11ace10-d537-4824-bee1-91825b3f0c01" width="49%" height="auto"/>
 </p>
 
 Visualisation of output data (sine wave desired altitude):
