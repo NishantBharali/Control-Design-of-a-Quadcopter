@@ -158,5 +158,5 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 
 #### Contact:
 
-&lt;Sebastian Brzustowicz&gt;   
-&lt;Se.Brzustowicz@gmail.com&gt;
+&lt;Nishant Bharali&gt;   
+&lt;bharalink@gmail.com&gt;
