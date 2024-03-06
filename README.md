@@ -1,4 +1,4 @@
-# Quadcopter simulation in MATLAB/Simulink
+# Control Design - Quadcopter simulation in MATLAB/Simulink
 
 Main objective: To model and design the control system for the quadcopter in simulation.
 Auxiliary scripts aid in obtaining the parameters of a specific physical quadcopter.
