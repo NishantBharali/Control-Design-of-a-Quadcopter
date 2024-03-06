@@ -1,9 +1,9 @@
 # Quadcopter simulation in MATLAB/Simulink
 
-Main objective was to model and design the control system for the quadcopter in simulation.   
-Auxiliary scripts help to obtain the parameters of a specific physical quadcopter.   
-Regulation method for attitude is PD approach.  
-It is possible to use other control systems on the existing model.  
+Main objective: To model and design the control system for the quadcopter in simulation.
+Auxiliary scripts aid in obtaining the parameters of a specific physical quadcopter.
+Utilized PD approach for the regulation method.
+Possibility of implementing other type of systems or approaches are valid.
 
 ## Simulation example result
 In a simulation it is possible to adjust trajectory or attitude as desired.
